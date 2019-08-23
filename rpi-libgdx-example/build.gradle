@@ -17,7 +17,7 @@ allprojects {
     version = '1.0'
     ext {
         appName = "rpi-libgdx-example"
-        gdxVersion = '1.9.8.rpi-SNAPSHOT'
+        gdxVersion = '1.9.11.rpi-SNAPSHOT'
         roboVMVersion = '2.2.0'
         box2DLightsVersion = '1.4'
         ashleyVersion = '1.7.0'
