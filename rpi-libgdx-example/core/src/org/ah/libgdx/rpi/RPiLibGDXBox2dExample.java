@@ -14,7 +14,7 @@ import com.badlogic.gdx.physics.box2d.*;
 import box2dLight.PointLight;
 import box2dLight.RayHandler;
 
-public class RPiLibGDXExample extends ApplicationAdapter implements InputProcessor {
+public class RPiLibGDXBox2dExample extends ApplicationAdapter implements InputProcessor {
     SpriteBatch batch;
     Texture img;
     RayHandler rayHandler;
